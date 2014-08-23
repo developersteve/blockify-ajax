@@ -1,0 +1,29 @@
+.blockify-paypal {
+    padding: 64px 0;
+    background: #e5e5e5;
+    text-align: center;
+}
+
+.blockify-paypal .container {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.blockify-paypal > div > h1,
+.blockify-paypal > div > h5 {
+    margin: 0 0 16px;
+}
+
+.blockify-paypal > div > h4 {
+    opacity: 0.8;
+}
+
+.blockify-paypal .row {
+    margin-top: 48px;
+    text-align: left;
+}
+
+.blockify-paypal p {
+    margin: 28px;
+    text-align: left;
+}
